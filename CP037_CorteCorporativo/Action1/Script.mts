@@ -353,7 +353,8 @@ Sub ResumenOrden()
 	wait 2
 	
 '    If DataTable("e_WIC_Activa", dtLocalSheet) = "SI" Then
-'				'RunAction "WIC2", oneIteration
+
+'RunAction "WIC2", oneIteration
 '
 '		Else 
 				
